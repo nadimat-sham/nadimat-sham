@@ -61,7 +61,7 @@ I'm Md. Azizul Haque Nadim, currently studying CSE undergraduate at Bangladesh U
 
 | Competition Name | 2021 | 2022 | 2023 | 2024 |
 | :----- | :----: | :----: | :----: | ------ |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | |Dhaka Regionals Preli<br/> Team: BUET_Codefellas<br/>[11th / 1747](https://algo.codemarshal.org/contests/icpc-dhaka-20/standings) | Dhaka Regionals Preli<br/> Team: BUET_Lost_Sailors<br/>[5th / 1648](https://algo.codemarshal.org/contests/dhaka-21-main/standings) |
+| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | |Dhaka Regionals Preli<br/> Team: BUET_Codefellas<br/>[11th / 1747](https://algo.codemarshal.org/contests/icpc-dhaka-20/standings) | Dhaka Regionals Preli<br/> Team: BUET_Lost_Sailors<br/>[5th / 1648](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2023/standings) |
 | <img width="120px" src="https://codeforces.org/s/43476/images/codeforces-logo-with-telegram.png" /> <br />CF Max Rank | 1672<br/>  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1683<br /> ![](https://img.shields.io/badge/-Expert-3262a8?style=flat) | 1913 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | 1895<br/>  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat) |
 
  </h5>
