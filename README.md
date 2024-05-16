@@ -73,8 +73,8 @@ I'm Md. Azizul Haque Nadim, currently studying CSE undergraduate at Bangladesh U
 | OJ | Username | Solve Count | Max Rating |
 | -- | -------- | ----------- | ---------- |
 | Codeforces | [Nadim](https://codeforces.com/profile/Nadim) | 1056 | 1913 |
+| CodeChef | [nadim2](https://www.codechef.com/users/nadim2) | 104 | 2038 |
 | AtCoder | [nadim___](https://atcoder.jp/users/nadim___) | 92 | 984 |
-| CodeChef | [nadim2](https://www.codechef.com/users/nadim2) | 100 | 1995 |
 | LightOJ | [nadim](https://lightoj.com/user/azizul-haque-nadim) | 86 | - | 
 | Toph | [Nadiim](https://toph.co/u/Nadiim) | 34 | 1672 |
 | Vjudge | [nadim2](https://vjudge.net/user/nadim2) | 225 | - |
