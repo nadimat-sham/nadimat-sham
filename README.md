@@ -54,7 +54,7 @@ I'm Md. Azizul Haque Nadim, currently studying CSE undergraduate at Bangladesh U
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nadimat-sham&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadimat-sham&langs_count=10&hide=EJS,CSS,Shell,Gnuplot&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Programming Performances
+## Competition Performances 🏆
 
 <h5>
  
@@ -62,13 +62,13 @@ I'm Md. Azizul Haque Nadim, currently studying CSE undergraduate at Bangladesh U
 | Competition Name | 2021 | 2022 | 2023 | 2024 |
 | :-----: | :----: | :----: | :----: | :----: |
 | <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" /> <br /> ICPC | |Dhaka Regionals Preli<br/> Team: BUET_Codefellas<br/>[11th / 1747](https://algo.codemarshal.org/contests/icpc-dhaka-20/standings) | Dhaka Regionals Preli<br/> Team: BUET_Lost_Sailors<br/>[5th / 1648](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2023/standings) |
-| <img width="120px" src="https://codeforces.org/s/43476/images/codeforces-logo-with-telegram.png" /> <br />CF Max Rank | 1672<br/>  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1683<br /> ![](https://img.shields.io/badge/-Expert-3262a8?style=flat) | 1913 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | 1895<br/>  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat) |
+| <img width="120px" src="https://codeforces.org/s/43476/images/codeforces-logo-with-telegram.png" /> <br />CF Max Rank | 1672<br/>  ![](https://img.shields.io/badge/-Expert-3262a8?style=flat)  | 1683<br /> ![](https://img.shields.io/badge/-Expert-3262a8?style=flat) | 1913 <br /> ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) | 1915<br/>  ![](https://img.shields.io/badge/-Candidate%20Master-a832a8?style=flat) |
 | IUPC | | | |CUET IUPC 2024<br/> Team: BUET_Lost_Sailors<br/>[7th](https://toph.co/c/cuet-inter-university-codestorm-1-0/standings) <br /><br/>SUST IUPC 2024<br/> Team: BUET_Lost_Sailors<br/>[11th](https://toph.co/c/inter-university-sust-cse-carnival-2024/standings) <br/><br/>IUT IUPC 2024<br/> Team: BUET_Lost_Sailors<br/>[10th](https://toph.co/c/iut-11th-national-ict-fest-2024/standings)|
 
  </h5>
 
+<!--
 ## Problem Solving Stats
-
 
 | OJ | Username | Solve Count | Max Rating |
 | -- | -------- | ----------- | ---------- |
@@ -81,6 +81,7 @@ I'm Md. Azizul Haque Nadim, currently studying CSE undergraduate at Bangladesh U
 | CSES | [nadim59](https://cses.fi/user/112876) | 40 | - |
 
 Last Updated: 09 May, 2024
+-->
 
 ## Connect with me:
 
