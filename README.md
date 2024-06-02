@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I'm Md. Azizul Haque Nadim, currently studying CSE undergraduate at Bangladesh University of Engineering and Technology
 
@@ -63,7 +63,7 @@ I'm Md. Azizul Haque Nadim, currently studying CSE undergraduate at Bangladesh U
 <br/>  
 
 
-## Competition Performances 🏆
+## Competition History 🏆
 
 <h5>
  
