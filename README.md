@@ -8,9 +8,7 @@ I'm Md. Azizul Haque Nadim, currently studying CSE undergraduate at Bangladesh U
 <a href="https://linkedin.com/in/md-azizul-haque-nadim-848177269" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/azizul.haque.nadim.47" target="_blank">
-<img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook style="margin-bottom: 5px;" />
-</a>  
+ 
  <a href="https://codeforces.com/profile/nadim">
  	<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white"/>
  </a>
